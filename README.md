@@ -1,3 +1,3 @@
 # credit-risk-modeling-project
 
-I have an end goal. I have LLM and set of tools that LLM calls to finally achieve this goal. Create a python code for same
+The aim of this project is not only to maximise the classification accuracy but to minimise the model complexity and achieve interpretable results to some extent and find a sweet spot with appropriate model complexity and performance.
